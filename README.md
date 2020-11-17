@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faclk%2Fgraphviz.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faclk%2Fgraphviz?ref=badge_shield)
+
 
 Author: [dreampuf](https://github.com/dreampuf/)
 
@@ -23,3 +25,6 @@ GraphvizOnline licensed under BSD-3 license. The dependencies:
 
 - [viz.js](https://github.com/mdaines/viz.js/blob/master/LICENSE) MIT
 - [ACE-editor](https://github.com/ajaxorg/ace/blob/master/LICENSE) BSD-2
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faclk%2Fgraphviz.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faclk%2Fgraphviz?ref=badge_large)
